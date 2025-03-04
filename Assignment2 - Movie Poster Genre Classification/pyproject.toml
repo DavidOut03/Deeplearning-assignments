@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "assignment2 - movie poster genre classification"
+version = "0.1.0"
+description = ""
+authors = ["David Out <738974@student.inholland.nl>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = ">=3.10,<3.12"
+pandas = "^2.2.3"
+matplotlib = "^3.10.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
