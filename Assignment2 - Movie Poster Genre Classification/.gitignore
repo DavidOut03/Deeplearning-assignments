@@ -1,5 +1,0 @@
-# Ignore everything in data directory
-data/*
-
-# But allow data.xlsx
-!data/data.xlsx

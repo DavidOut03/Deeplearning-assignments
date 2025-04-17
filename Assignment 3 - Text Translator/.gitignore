@@ -1,0 +1,7 @@
+# Ignore everything in data directory
+data/*
+
+# But allow data.xlsx
+!data/english.txt
+!data/dutch.txt
+!data/alignments.xml
